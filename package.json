@@ -1,0 +1,21 @@
+{
+  "name": "learnmocha",
+  "version": "1.0.0",
+  "description": "learning mocha with a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "testing",
+    "node.js"
+  ],
+  "author": "Daniel Deutsch",
+  "license": "ISC",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  }
+}
